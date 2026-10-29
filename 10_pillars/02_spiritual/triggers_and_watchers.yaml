@@ -1,0 +1,3 @@
+schedules:
+  morning_sync: '07:00'
+  nightly_distill: '22:00'

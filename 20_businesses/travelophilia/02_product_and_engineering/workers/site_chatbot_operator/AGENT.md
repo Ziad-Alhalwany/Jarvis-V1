@@ -1,0 +1,5 @@
+# Digital Employee Profile: site_chatbot_operator
+- **Role ID:** `site_chatbot_operator`
+- **Workspace Path:** `20_businesses\travelophilia\02_product_and_engineering\workers\site_chatbot_operator`
+- **Clarity Gate:** `>= 85%` (Halt in Explain & Discuss mode if below threshold)
+- **Scorecard Baseline:** `100 pts`

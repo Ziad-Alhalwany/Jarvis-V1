@@ -1,0 +1,17 @@
+{
+  "integration": "goose",
+  "version": "1.2.6.dev0",
+  "installed_at": "2026-10-28T21:38:56.316358+00:00",
+  "files": {
+    ".goose/recipes/speckit.analyze.yaml": "0fb05538c75976c14565ca1378853e15e1c19c40a02daaf9b9c111c4752afd92",
+    ".goose/recipes/speckit.clarify.yaml": "12224bbea67853f7155991282ba4539d89a6a5591447c02fb64b541bc548cea7",
+    ".goose/recipes/speckit.constitution.yaml": "d2c69c02d77ebb627b793946e43f0f95880466b6d72a23d2c5acb36c2e40b568",
+    ".goose/recipes/speckit.implement.yaml": "1c6b46e1a86512e5210c9312ff6a7dce396fdab60d3ed7272699d4e311ee12e2",
+    ".goose/recipes/speckit.converge.yaml": "f9e04f7a070cd8e1433990aeacf5fb533d856a3a8f0c2001441e794402c0e108",
+    ".goose/recipes/speckit.plan.yaml": "00c0d4a90c817caf541fbb695cf078cda654cb2eed7b25324759b134086ec83a",
+    ".goose/recipes/speckit.checklist.yaml": "98caff48e45bdba247543237099c57bf84a1251d2004220e144fb24da8622143",
+    ".goose/recipes/speckit.specify.yaml": "3cd8546680d3ee04e8224a9f95e60d25cafcdb57c56ffc16bce5047ed4676cc6",
+    ".goose/recipes/speckit.tasks.yaml": "7a0a0d578f0da644c1dbe25074d6e2affff87062b6d6aa21b7c6c656d045a8ba",
+    ".goose/recipes/speckit.taskstoissues.yaml": "d3c8b8cef67c55119edc77f873ccd515f6d2e97b72ac5393603996de74e9e783"
+  }
+}
